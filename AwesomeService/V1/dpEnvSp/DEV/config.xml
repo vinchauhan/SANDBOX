@@ -1,5 +1,5 @@
 <ConfigInfo>
-    <Logpaylod>false</Logpaylod>
+    <Logpaylod>true</Logpaylod>
 
     <LogMessag>false</LogMessag>
 </ConfigInfo>
