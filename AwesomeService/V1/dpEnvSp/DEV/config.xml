@@ -1,3 +1,5 @@
 <ConfigInfo>
     <Logpaylod>true</Logpaylod>
+
+    <AuthenticationType>Basic</AuthenticationType>
 </ConfigInfo>
